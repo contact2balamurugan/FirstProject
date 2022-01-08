@@ -1,2 +1,3 @@
 const a=101;
-console.log("HI",a)
+const c=20;
+console.log("HI",a,c)
