@@ -1,4 +1,4 @@
 const a=104;
 const c=2000;
-
-console.log("HI I am",a,c)
+const d=a*c;
+console.log("HI",d,a,c)
