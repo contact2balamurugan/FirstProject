@@ -1,2 +1,2 @@
-const a=15;
+const a=100;
 console.log("HI",a)
